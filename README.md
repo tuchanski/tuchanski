@@ -5,11 +5,6 @@
 
 <div align= "center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6290D5&random=false&width=435&lines=Welcome!;I'm+a+brazilian+software+developer;I+study+Computer+Science+at+PUCPR;I'm+20+years+old;Call+me+Tuchanski+%3DD)](https://git.io/typing-svg)
-  
-
-<br>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tuchanski&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
