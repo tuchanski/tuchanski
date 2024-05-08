@@ -5,6 +5,7 @@ class AboutMe extends Developer {
   name = "Guilherme Tuchanski";
   area = "Fullstack Developer";
   local = "Curitiba - Brazil";
+  favoriteBand = "Radiohead";
 }
 
 class Skills extends Developer {
