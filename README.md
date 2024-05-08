@@ -8,6 +8,6 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  techs = ["Java", "Spring Boot", "Python", "C", "MySQL"];
+  techs = ["Java", "Spring Boot", "Python", "C", "HTML", "CSS", "Javascript", "MySQL"];
 }
 ```
