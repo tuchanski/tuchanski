@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuchanski&label=Profile%20views&color=0e75b6&style=flat" alt="tuchanski" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, PHP, C#**
-- 💬 Ask me about **Java, Python, MySQL**
+- 💬 Ask me about **Java, Python, MySQL, Radiohead**
 - 📫 How to reach me: **guilherme.tuchanski@gmail.com**
 - ⚡ Fun fact: **I'm currently sleepy**
 
