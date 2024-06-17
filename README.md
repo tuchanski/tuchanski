@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Spring Boot, PHP, C#**
 - 💬 Ask me about **Java, Python, MySQL, Radiohead**
 - 📫 How to reach me: **guilherme.tuchanski@gmail.com**
-- ⚡ Fun fact: **I'm currently sleepy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
