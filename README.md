@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Tuchanski!</h1>
+<h1 align="center">Hello, I'm Tuchanski</h1>
 <h3 align="center">Computer Science Student | Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuchanski&label=Profile%20views&color=0e75b6&style=flat" alt="tuchanski" /> </p>
+<p align="center"> <img src="https://i.makeagif.com/media/6-13-2016/hjhsM8.gif"/> </p>
 
-- 🌱 I’m currently learning **Spring Boot, PHP, C#**
-- 💬 Ask me about **Java, Python, MySQL, Radiohead**
+- 🌱 I’m currently learning **Spring Boot, Angular, NodeJS**
+- 💬 Ask me about **Java, Algorithms, Malware Analysis**
 - 📫 How to reach me: **guilherme.tuchanski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,7 +13,7 @@
   <a href="https://instagram.com/guilherme.tuchanski" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies I use:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -30,14 +30,4 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuchanski&layout=compact&hide=html" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuchanski&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuchanski" alt="GitHub Streak" />
-</p>
