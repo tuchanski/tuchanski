@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Spring Boot and Angular<br>💬 Ask me about Java, Algorithms and Spring Boot</p>
+<p align="left">📚 I'm currently learning Spring Boot and Angular<br>💬 Ask me about Java, Algorithms and Spring Boot<br>🎶 I really enjoy listening to Radiohead</p>
 
 ###
 
