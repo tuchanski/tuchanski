@@ -1,8 +1,8 @@
-<h1 align="left">Hey👋</h1>
+<h1 align="left">Heyy👋</h1>
 
 ###
 
-<p align="left">I'm Guilherme Tuchanski - Software Developer and Computer Science Student</p>
+<p align="left">I'm Guilherme Tuchanski, welcome to my GitHub profile!</p>
 
 ###
 
