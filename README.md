@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm Guilherme Tuchanski, welcome to my GitHub profile!</p>
+<p align="left">I aim to deliver high-performance solutions to challenging opportunities. 🚀</p>
 
 ###
 
