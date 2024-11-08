@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Spring Boot and Angular<br>💬 Ask me about Java, Algorithms and Spring Boot<br>🎶 I really enjoy listening to Radiohead</p>
+<p align="left">📚 I'm currently learning Spring Boot & React.<br>💬 Ask me about Java, Algorithms & Spring Boot.<br>🎶 I really enjoy listening to Radiohead!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
@@ -32,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
