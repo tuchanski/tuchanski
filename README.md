@@ -1,4 +1,4 @@
-<h2 align="left">👨🏻‍💻 Guilherme Tuchanski</h2>
+<h2 align="left">👨🏻‍💻 Guilherme Tuchanski Rocha</h2>
 
 ###
 
