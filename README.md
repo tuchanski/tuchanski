@@ -1,8 +1,8 @@
-<h2 align="left">👨🏻‍💻 Guilherme Tuchanski Rocha</h2>
+<h2 align="left">👋 Greetings!</h2>
 
 ###
 
-<p align="left">Hi! I'm Guilherme Tuchanski, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷.</p>
+<p align="left">I'm Guilherme Tuchanski, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷.</p>
 
 ###
 
