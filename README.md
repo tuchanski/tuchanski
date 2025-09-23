@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Guilherme Tuchanski, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷."</p>
+<p align="left">Hi! I'm Guilherme Tuchanski, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷.</p>
 
 ###
 
