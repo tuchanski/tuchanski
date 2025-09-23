@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile. I'm Guilherme Tuchanski, a Brazilian Full-Stack developer passionate about building high-performance solutions to challenging opportunities.</p>
+<p align="left">Hi! I'm Guilherme Tuchanski, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷."</p>
 
 ###
 
