@@ -1,10 +1,8 @@
 <h2 align="left">👋 Greetings!</h2>
 
-###
-
-<p align="left">I'm Guilherme Tuchanski, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷.</p>
-
-###
+<p align="left">I'm Guilherme, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷</p>
+<p>📌 Interests: Full-Stack Development, AI & Machine Learning</p>
+<p>🌟 Fun fact: Passionate about <b>Final Fantasy IX</b>
 
 <h3 align="left">⚙️ Tech Stack</h3>
 
@@ -21,6 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -59,3 +58,6 @@
 </div>
 
 ###
+
+
+<p align="left"><i>"You don't need a reason to help people."</i></p>
