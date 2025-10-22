@@ -1,8 +1,7 @@
-<h2 align="left">👋 Greetings!</h2>
+<h2 align="left">👋 Hello!</h2>
 
-<p align="left">I'm Guilherme, a Junior Full-Stack Developer and Computer Science student from Brazil 🇧🇷</p>
-<p>📌 Interests: Full-Stack Development, AI & Machine Learning</p>
-<p>🌟 Fun fact: Passionate about <b>Final Fantasy IX</b>
+<p align="left">I'm Guilherme, a Jr. Full-Stack Developer and Compsci student from Brazil 🇧🇷</p>
+<p>📌 Interests: Java, Full-Stack Development, AI and Machine Learning ☕ </p>
 
 <h3 align="left">⚙️ Tech Stack</h3>
 
