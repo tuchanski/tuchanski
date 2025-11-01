@@ -4,7 +4,7 @@
 I'm <b>Guilherme</b>, a Jr. Full-Stack Developer and <b>Computer Science student</b> from Brazil 🇧🇷  
 </p>
 
-<p>📌 <b>Interests:</b> Java, Full-Stack Development, AI & Machine Learning ☕</p>
+<p>📌 <b>Interests:</b> Java, Full-Stack Development & AI
 <p>🚀 [PT-BR] <b>Visit my portfolio at:</b> <a href="https://tuchanski.dev/" target="_blank" rel="noopener noreferrer">tuchanski.dev</a></p>
 
 ---
