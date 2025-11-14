@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hello there!</h2>
 
 <p align="left">
-I'm <b>Guilherme</b>, a Full-Stack Developer (in progress) and a <b>Computer Science student</b> from Brazil 🇧🇷  
+I'm <b>Guilherme</b>, a Full-Stack Developer and a <b>Computer Science student</b> from Brazil 🇧🇷  
 </p>
 
 <p align="left">
