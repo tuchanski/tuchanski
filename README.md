@@ -66,5 +66,3 @@ I'm also an R&D Intern at Fiscaltech, where I’m learning and building solution
 </div>
 
 ---
-
-<p align="left"><i>✨ "You don't need a reason to help people."</i></p>
