@@ -63,6 +63,10 @@ I'm also an R&D Intern at Fiscaltech, where I’m learning and building solution
   <a href="https://www.linkedin.com/in/tuchanski/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
+  <a href="https://www.hackerrank.com/profile/gui_tuchanski" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" />
+  </a>
 </div>
 
 ---
+
