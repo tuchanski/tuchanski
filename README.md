@@ -5,10 +5,6 @@ I'm <b>Guilherme</b>, a Full-Stack Developer and a <b>Computer Science student</
 </p>
 
 <p align="left">
-I'm also an R&D Intern at Fiscaltech, where I’m learning and building solutions that combine software engineering 💻, automation 🤖, and data 📊 to solve real business problems.
-</p>
-
-<p align="left">
 📌 <b>Interests:</b><br>
 • Java & Spring<br>
 • Full-Stack Development<br>
