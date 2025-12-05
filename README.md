@@ -1,18 +1,35 @@
-<h2 align="left">👋 Hello there!</h2>
+<h2 align="left">👋 Hello World!</h2>
 
 <p align="left">
-I'm <b>Guilherme</b>, a Full-Stack Developer and a <b>Computer Science student</b> from Brazil 🇧🇷  
+I'm <b>Guilherme</b>, a Full-Stack Developer and <b>Computer Science student at PUCPR</b> 🇧🇷.<br>
+Passionate about building clean, scalable and well-architected software.
 </p>
 
 <p align="left">
-📌 <b>Interests:</b><br>
-• Java & Spring<br>
-• Full-Stack Development<br>
-• Automation & Data<br>
-• AI & Intelligent Systems
+🚀 <b>What I'm focused on:</b><br>
+• Java & Spring Boot<br>
+• Full-Stack Development and Microservices<br>
+• Software Architecture & System Design<br>
+• Automation, Data, and Integration Systems<br>
+• Exploring AI, Intelligent Systems & high-performance backend design
 </p>
 
-<p>🚀 [PT-BR] <b>Visit my portfolio at:</b> <a href="https://tuchanski.dev/" target="_blank" rel="noopener noreferrer">tuchanski.dev</a></p>
+<p align="left">
+🎓 <b>Academics:</b><br>
+• 5th-semester Computer Science student at <b>PUCPR</b><br>
+• Strong interest in distributed systems, algorithms, and backend engineering
+</p>
+
+<p align="left">
+🌱 <b>Currently learning:</b><br>
+• Spring Security & JWT Authentication<br>
+• Microservices patterns and communication<br>
+• Clean Architecture & Design Patterns<br>
+</p>
+
+<p align="left">
+🌐 <b>Portfolio:</b> <a href="https://tuchanski.dev/" target="_blank" rel="noopener noreferrer">tuchanski.dev</a>
+</p>
 
 ---
 
@@ -44,15 +61,6 @@ I'm <b>Guilherme</b>, a Full-Stack Developer and a <b>Computer Science student</
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuchanski&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuchanski&layout=compact&theme=dracula&langs_count=6" height="150" />
-</div>
-
----
-
 <h3 align="left">🌐 Connect with me</h3>
 
 <div align="left">
@@ -65,4 +73,3 @@ I'm <b>Guilherme</b>, a Full-Stack Developer and a <b>Computer Science student</
 </div>
 
 ---
-
