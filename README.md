@@ -6,6 +6,11 @@ I enjoy building <b>scalable, well-architected systems</b> with a strong focus o
 </p>
 
 <p align="left">
+💼 <b>Currently:</b><br>
+Software Development Intern at <b>Grupo Marista (PUCPR)</b>, contributing to the development of internal systems and technology initiatives within the university environment.
+</p>
+
+<p align="left">
 🚀 <b>Main focus:</b><br>
 • Backend development with <b>Java & Spring Boot</b> and <b>PHP & Laravel</b><br>
 • Full-Stack applications and microservices<br>
