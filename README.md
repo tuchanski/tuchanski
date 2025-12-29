@@ -16,7 +16,7 @@ I enjoy building <b>scalable, well-architected systems</b> with a strong focus o
 
 <p align="left">
 🎓 <b>Academics:</b><br>
-• 5th-semester Computer Science student at <b>PUCPR</b><br>
+• 6th-semester Computer Science student at <b>PUCPR</b><br>
 • Strong interest in distributed systems, algorithms and backend engineering
 </p>
 
