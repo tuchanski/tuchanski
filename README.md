@@ -14,7 +14,7 @@ Software Development Intern at <b>Grupo Marista</b>, contributing to the develop
 🚀 <b>Main focus:</b><br>
 • Backend development with <b>Java/Spring Boot</b> and <b>PHP/Laravel</b><br>
 • Full-Stack applications and microservices<br>
-• Software architecture, clean code & system design<br>
+• Software architecture, clean code and system design<br>
 </p>
 
 <p align="left">
