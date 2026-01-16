@@ -21,8 +21,3 @@ Software Development Intern at <b>Grupo Marista</b>, contributing to the develop
 🎓 <b>Academics:</b><br>
 • 6th-semester Computer Science student at <b>PUCPR</b><br>
 </p>
-
-<p align="left">
-🌐 <b>Portfolio:</b>
-<a href="https://tuchanski.dev/" target="_blank" rel="noopener noreferrer">tuchanski.dev</a>
-</p>
