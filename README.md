@@ -7,7 +7,7 @@ I enjoy building <b>scalable, well-architected systems</b> with a strong focus o
 
 <p align="left">
 💼 <b>Currently:</b><br>
-Software Development Intern at <b>Grupo Marista (PUCPR)</b>, contributing to the development of internal systems and technology initiatives within the university environment.
+Software Development Intern at <b>Grupo Marista</b>, contributing to the development of internal systems and technology initiatives within the PUCPR's university environment.
 </p>
 
 <p align="left">
