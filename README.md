@@ -15,21 +15,11 @@ Software Development Intern at <b>Grupo Marista (PUCPR)</b>, contributing to the
 • Backend development with <b>Java & Spring Boot</b> and <b>PHP & Laravel</b><br>
 • Full-Stack applications and microservices<br>
 • Software architecture, clean code & system design<br>
-• Automation, data-driven systems and integrations<br>
-• Exploring AI, intelligent systems and high-performance backend solutions
 </p>
 
 <p align="left">
 🎓 <b>Academics:</b><br>
 • 6th-semester Computer Science student at <b>PUCPR</b><br>
-• Strong interest in distributed systems, algorithms and backend engineering
-</p>
-
-<p align="left">
-🌱 <b>Currently learning:</b><br>
-• Spring Security & JWT-based authentication<br>
-• Microservices communication and design patterns<br>
-• Clean Architecture and scalable system design
 </p>
 
 <p align="left">
