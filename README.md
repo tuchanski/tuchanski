@@ -21,3 +21,19 @@ Software Development Intern at <b>Grupo Marista</b>, contributing to the develop
 🎓 <b>Academics:</b><br>
 • 6th-semester Computer Science student at <b>PUCPR</b><br>
 </p>
+
+<p align="left">
+📫 <b>Reach me:</b>
+</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tuchanski" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:guilherme.tuchanski@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+
+
