@@ -1,29 +1,17 @@
-<h2 align="left">Hello World! 👋</h2>
+<h2 align="left">Hello there 👋</h2>
 
 <p align="left">
-I'm <b>Guilherme</b>, a Full-Stack Developer and <b>Computer Science student</b> from 🇧🇷.<br>
-I enjoy building <b>scalable, well-architected systems</b> with a strong focus on backend engineering.
+I'm <b>Guilherme Tuchanski</b>, a Full-Stack Developer and <b>Computer Science student</b> from 🇧🇷.<br>
+I’m passionate about building <b>scalable, well-structured systems</b>, with a strong focus on backend development.
 </p>
 
 <p align="left">
-💼 <b>Currently:</b><br>
-Software Development Intern at <b>Grupo Marista</b>, contributing to the development of internal systems and technology initiatives within the PUCPR's university environment.
+👉 Check out my portfolio:  
+<a href="https://tuchanski.com" target="_blank"><b>tuchanski.com</b></a>
 </p>
 
 <p align="left">
-🚀 <b>Main focus:</b><br>
-• Backend development with <b>Java/Spring Boot</b> and <b>PHP/Laravel</b><br>
-• Full-Stack applications and microservices<br>
-• Software architecture, clean code and system design<br>
-</p>
-
-<p align="left">
-🎓 <b>Academics:</b><br>
-• 6th-semester Computer Science student at <b>PUCPR</b><br>
-</p>
-
-<p align="left">
-📫 <b>Reach me:</b>
+📫 <b>Get in touch:</b>
 </p>
 
 <p align="left">
@@ -34,6 +22,3 @@ Software Development Intern at <b>Grupo Marista</b>, contributing to the develop
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 </p>
-
-
-
