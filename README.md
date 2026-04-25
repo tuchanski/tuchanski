@@ -6,7 +6,7 @@ I’m passionate about building <b>scalable, well-structured systems</b>, with a
 </p>
 
 <p align="left">
-💼 Currently working as a Software Development Intern at Siemens.
+⚡ Currently working as a Software Development Intern at Siemens.
 </p>
 
 <p align="left">
