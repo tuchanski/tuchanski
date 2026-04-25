@@ -1,7 +1,7 @@
 <h2 align="left">Hello there 👋</h2>
 
 <p align="left">
-I'm <b>Guilherme Tuchanski</b>, a Full-Stack Developer and <b>Computer Science student</b> from 🇧🇷.<br>
+I'm <b>Guilherme Tuchanski</b>, a Full-Stack Developer and <b>Computer Science Student</b> from 🇧🇷.<br>
 I’m passionate about building <b>scalable, well-structured systems</b>, with a strong focus on backend development.
 </p>
 
