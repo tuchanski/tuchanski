@@ -6,6 +6,10 @@ I’m passionate about building <b>scalable, well-structured systems</b>, with a
 </p>
 
 <p align="left">
+💼 Currently working as a Software Development Intern at Siemens.
+</p>
+
+<p align="left">
 👉 Check out my portfolio:  
 <a href="https://tuchanski.com" target="_blank"><b>tuchanski.com</b></a>
 </p>
