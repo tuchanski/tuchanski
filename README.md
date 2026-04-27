@@ -26,3 +26,5 @@ I’m passionate about building <b>scalable, well-structured systems</b>, with a
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 </p>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tuchanski.tuchanski&left_color=blue&right_color=blue"/>
