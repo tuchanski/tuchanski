@@ -37,3 +37,11 @@ Currently, I work as a <b>Software Development Intern at Siemens</b>, contributi
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tuchanski.tuchanski&left_color=blue&right_color=blue"/>
+<br><br>
+<p align="center">
+  <sub><i>
+    “The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.”
+    <br>
+    — Edsger W. Dijkstra
+  </i></sub>
+</p>
