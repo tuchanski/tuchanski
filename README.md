@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-header.png" width="100%" alt="Guilherme Tuchanski" />
+</p>
+
 <h2 align="left">Hello there 👋</h2>
 
 <p align="left">
