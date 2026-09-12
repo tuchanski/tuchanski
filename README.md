@@ -1,16 +1,26 @@
 <h2 align="left">Hello there 👋</h2>
 
 <p align="left">
-I'm Guilherme Tuchanski, a Full-Stack Developer and <b>Computer Science Student</b> from Brazil.<br>
-I’m passionate about building <b>scalable, well-structured systems</b>, with a strong focus on backend development.
+I'm <b>Guilherme Tuchanski</b>, a Software Developer and Computer Science undergraduate from Brazil.
 </p>
 
 <p align="left">
-⚡ Currently working as a Software Development Intern at Siemens.
+I have experience in <b>desktop and web development, test automation, API integration, and software maintenance</b>.
+Currently, I work as a <b>Software Development Intern at Siemens</b>, contributing to <b>Spectrum Power 7</b>, a SCADA platform for power grid management and optimization.
 </p>
 
 <p align="left">
-👉 Check out my portfolio:  
+At Siemens, I work with <b>C++, Qt, Python, and Squish</b> on interface improvements, defect investigation, debugging, automated testing, and maintenance within an international agile team.
+Previously, at <b>Grupo Marista</b>, I worked on web applications and APIs using <b>PHP, Laravel, Vue.js, and Docker</b>.
+</p>
+
+<p align="left">
+🎓 Computer Science — Pontifícia Universidade Católica do Paraná (PUCPR)<br>
+⚡ Software Development Intern — Siemens
+</p>
+
+<p align="left">
+👉 Check out my portfolio:
 <a href="https://tuchanski.com" target="_blank"><b>tuchanski.com</b></a>
 </p>
 
