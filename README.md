@@ -5,17 +5,12 @@
 <h2 align="left">Hello there 👋</h2>
 
 <p align="left">
-I'm <b>Guilherme Tuchanski</b>, a Software Developer and Computer Science undergraduate from Brazil.
+I'm <b>Guilherme</b>, a Software Developer and Computer Science undergraduate from Brazil.
 </p>
 
 <p align="left">
 I have experience in <b>desktop and web development, test automation, API integration, and software maintenance</b>.
 Currently, I work as a <b>Software Development Intern at Siemens</b>, contributing to <b>Spectrum Power 7</b>, a SCADA platform for power grid management and optimization.
-</p>
-
-<p align="left">
-At Siemens, I work with <b>C++, Qt, Python, and Squish</b> on interface improvements, defect investigation, debugging, automated testing, and maintenance within an international agile team.
-Previously, at <b>Grupo Marista</b>, I worked on web applications and APIs using <b>PHP, Laravel, Vue.js, and Docker</b>.
 </p>
 
 <p align="left">
